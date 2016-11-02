@@ -1,23 +1,23 @@
 ---
 view: page
-title: "2. The final preparation"
+title: "2. Preparación final"
 ---
 
-<h3>Goals</h3>
+<h3>Objetivos</h3>
 
-<ul><li>Install the materials from the tutorial and get them ready for work.</li></ul>
+<ul><li>Instalar los materiales para el tutorial y prepararlos para el trabajo.</li></ul>
 
-<h2><em>01</em> Download the tutorial materials</h2>
+<h2><em>01</em> Descargar los materiales para el tutorial</h2>
 
-<p>Download the tutorial materials here:</p>
+<p>Descarga los materiales para el tutorial aquí:</p>
 
 <ul><li>http://githowto.com/git_tutorial.zip</li></ul>
 
-<h2><em>02</em> Extract the tutorial materials</h2>
+<h2><em>02</em> Extraer los materiales para el tutorial</h2>
 
-<p>The tutorial package should contain the main folder “git_tutorial” with two subfolders:</p>
+<p>El paquete tutorial debe contener la carpeta principal "git_tutorial" con dos subcarpetas:</p>
 
 <ul>
-<li>work — an empty working directory. Your repositories will be created here.</li>
-<li>files — prepackaged files to let you continue working with the tutorial on any stage. If you get stuck, simply copy the desired lesson into your working folder.</li>
+<li>work — un directorio de trabajo vacío. Tus repositorios se crearán aquí.</li>
+<li>files — archivos pre-empaquetados para permitirte continuar trabajando con el tutorial en cualquier etapa. Si te quedas estancado, simplemente copia la lección deseada en tu carpeta de trabajo.</li>
 </ul>

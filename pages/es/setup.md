@@ -20,14 +20,14 @@ git config --global user.email "your_email@whatever.com"</pre>
 
 <p>También, para usuarios de Unix/Mac:</p>
 
-<h4 class="h4-pre">Run:</h4>
+<h4 class="h4-pre">Ejecuta:</h4>
 
 <pre class="instructions">git config --global core.autocrlf input
 git config --global core.safecrlf true</pre>
 
 <p>Para usuarios de Windows:</p>
 
-<h4 class="h4-pre">Run:</h4>
+<h4 class="h4-pre">Ejecuta:</h4>
 
 <pre class="instructions">git config --global core.autocrlf true
 git config --global core.safecrlf true</pre>
