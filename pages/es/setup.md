@@ -1,15 +1,15 @@
 ---
 view: page
-title: "1. Preparación"
+title: "1. Preparaci&oacute;n"
 ---
 
 <h3>Objetivos</h3>
 
 <ul><li>Estar preparado totalmente para trabajar con Git.</li></ul>
 
-<h2><em>01</em> Configurar nombre y correo electrónico</h2>
+<h2><em>01</em> Configurar nombre y correo electr&oacute;nico</h2>
 
-<p>Si nunca has usado Git anteriormente, primero necesitas configurar tu nombre y tu correo electrónico. Ejecuta los siguientes comandos para que git conozca tu nombre y tu correo electrónico. Si git ya está instalado, avanza hasta el final de la línea.</p>
+<p>Si nunca has usado Git anteriormente, primero necesitas configurar tu nombre y tu correo electr&oacute;nico. Ejecuta los siguientes comandos para que git conozca tu nombre y tu correo electr&oacute;nico. Si git ya est&aacute; instalado, avanza hasta el final de la l&iacute;nea.</p>
 
 <h4 class="h4-pre">Ejecuta:</h4>
 

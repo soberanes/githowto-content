@@ -7,21 +7,21 @@ description: "Git How To es un tour guiado que recorre los fundamentos de Git, i
 
 <div class="row">
 <div class="col-sm-6">
-<h1 class="title-big">¿Qué es esto?</h1>
+<h1 class="title-big">&iquest;Qu&eacute; es esto?</h1>
 
 <p><b class="inline">Git How To</b> es un tour guiado que recorre los fundamentos de Git, inspirado en la premisa de que la mejor forma de aprender algo es haciendolo.</p>
 <p>Por cierto, si conoces Ruby, tal vez te prefieras el original <a href="http://gitimmersion.com/">Git Immersion</a>.</p>
 </div>
 <div class="col-sm-6">
-<h1 class="title-big">Git?</h1>
+<h1 class="title-big">&iquest;Git?</h1>
 
-<p class=""><b class="inline">Git</b> es un potente y sofisticado sistema para el control de versiones distribuídas. Obtener una compresión de sus características abre a los desarrolladores un nuevo y liberador enfoque de la gestión de código fuente. El mejor camino para dominar Git es sumergirse en sus utilidades y operaciones, experimentarlo de primera mano.</p>
+<p class=""><b class="inline">Git</b> es un potente y sofisticado sistema para el control de versiones distribuídas. Obtener una compresi&oacute;n de sus caracter&iacute;sticas abre a los desarrolladores un nuevo y liberador enfoque de la gesti&oacute;n de c&oacute;digo fuente. El mejor camino para dominar Git es sumergirse en sus utilidades y operaciones, experimentarlo de primera mano.</p>
 </div>
 </div>
 
 
 
-## Antes de que empecemos, necesitas instalar un cliente para Git
+## Antes de iniciar, necesitas instalar un cliente para Git
 
 <div class="row">
 <div class="col-sm-4">
@@ -40,13 +40,13 @@ description: "Git How To es un tour guiado que recorre los fundamentos de Git, i
 
 <div class="col-sm-4">
 <h3><i class="fa fa-windows"></i> Windows</h3>
-<a href="http://git-for-windows.github.io//">git para windows</a>
+<a href="http://git-for-windows.github.io//">Git para windows</a>
 </div>
 
 </div>
 
 <div class="row go-block">
   <div class="col-sm-12">
-    <a class="btn btn-hg btn-primary go" href="/setup"><i class="fa fa-flag"></i> ¡Iniciar!</a>
+    <a class="btn btn-hg btn-primary go" href="/setup"><i class="fa fa-flag"></i> &iexcl;Iniciar!</a>
   </div>
 </div>
